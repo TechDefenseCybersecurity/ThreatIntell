@@ -1,0 +1,10 @@
+IPv4,108.61.142[.]190
+IPv4,45.76.165[.]129
+CVE,CVE-2024-6409
+FileHash-SHA1,2a5e003764180eb3531443946d2f3c80ffcb2c30
+URL,http[:]//108.61.142[.]190/1.dll.sa
+URL,http[:]//108.61.142[.]190/64.zip
+URL,http[:]//108.61.142[.]190/FX300.rar
+URL,http[:]//108.61.142[.]190/PsExec.exe
+URL,http[:]//108.61.142[.]190/host1.sa
+URL,http[:]//108.61.142[.]190/winrar-x64-611.exe
